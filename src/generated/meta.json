@@ -1,0 +1,12 @@
+{
+  "needleEditor": null,
+  "meta": null,
+  "absolutePath": "https://localhost:3000",
+  "sceneName": "Collaborative Sandbox",
+  "deployOnly": false,
+  "generator": "Unity 2021.3.27f1, Needle Engine Integration @3.10.7-pre",
+  "gzip": false,
+  "allowHotReload": true,
+  "license": null,
+  "useRapier": true
+}
